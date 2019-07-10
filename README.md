@@ -38,9 +38,7 @@ Decision making app for roommates, friends, or whatever. Anonymous, easy and fas
 - Node 5.10.x or above
 - NPM 3.8.x or above
 
-## TESTING STUFFS
-
-## Mock Up Images
+## Mock Up Images/WireFrames
 
 ### Homepage
 
